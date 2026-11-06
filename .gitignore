@@ -1,0 +1,6 @@
+taxicab.pkl # so it doesnt get added again
+git add .gitignore
+git commit --amend --no-edit         # rewrite "lab 8 final" without the pickle
+git push origin main
+
+taxicab.pkl
